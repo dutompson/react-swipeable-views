@@ -1,6 +1,6 @@
 {
-  "name": "react-swipeable-views-core",
-  "version": "0.15.0",
+  "name": "react-swipeable-views-core-update",
+  "version": "0.15.15",
   "description": "react-swipeable-views core modules",
   "main": "lib/index.js",
   "scripts": {
@@ -22,7 +22,7 @@
     "pkgfiles": "^2.3.2"
   },
   "peerDependencies": {
-    "react": "^15.3.0 || ^16.0.0 || ^17.0.0"
+    "react": "^18.3.1"
   },
   "license": "MIT",
   "engines": {

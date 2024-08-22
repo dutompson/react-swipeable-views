@@ -5,7 +5,7 @@
 ## Fork
 
 This project was forked from https://github.com/dutompson/react-swipeable-views.git
-Original author: "Olivier Tassinari <olivier.tassinari@gmail.com> (https://github.com/dutompson)",
+By: "Olivier Tassinari <olivier.tassinari@gmail.com> (https://github.com/oliviertassinari)",
  
 | Package | Version | Download | Size (kB gzipped) |
 |---------|:--------|:---------|:------------------|
