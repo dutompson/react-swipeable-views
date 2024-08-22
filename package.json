@@ -21,11 +21,11 @@
     "release": "yarn build && yarn lerna exec yarn prepublish && lerna publish",
     "postrelease": "yarn docs:deploy"
   },
-  "author": "Olivier Tassinari <olivier.tassinari@gmail.com> (https://github.com/oliviertassinari)",
+  "author": "Eduardo Pereira <du.pereira@gmail.com> (https://github.com/dutompson)",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/oliviertassinari/react-swipeable-views.git"
+    "url": "git+https://github.com/dutompson/react-swipeable-views.git"
   },
   "devDependencies": {
     "@babel/cli": "7.0.0",

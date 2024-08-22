@@ -1,6 +1,6 @@
 {
   "name": "react-swipeable-views-utils",
-  "version": "0.14.0",
+  "version": "0.15.0",
   "description": "react-swipeable-views utility modules",
   "main": "lib/index.js",
   "scripts": {
@@ -8,11 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/oliviertassinari/react-swipeable-views.git"
+    "url": "https://github.com/dutompson/react-swipeable-views.git"
   },
-  "author": "Olivier Tassinari <olivier.tassinari@gmail.com> (https://github.com/oliviertassinari)",
+  "author": "Eduardo Pereira <du.pereira@gmail.com> (https://github.com/dutompson)",
   "bugs": {
-    "url": "https://github.com/oliviertassinari/react-swipeable-views/issues"
+    "url": "https://github.com/dutompson/react-swipeable-views/issues"
   },
   "dependencies": {
     "@babel/runtime": "7.0.0",

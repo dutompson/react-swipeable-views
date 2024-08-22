@@ -6,7 +6,7 @@
 -->
 
 <!-- Checked checkbox should look like this: [x] -->
-- [ ] I have searched the [issues](https://github.com/oliviertassinari/react-swipeable-views/issues) of this repository and believe that this is not a duplicate.
+- [ ] I have searched the [issues](https://github.com/dutompson/react-swipeable-views/issues) of this repository and believe that this is not a duplicate.
 
 ## Expected Behavior
 <!---
@@ -26,7 +26,7 @@
     Include code to reproduce, if relevant (which it most likely is).
 
     This codesandbox.io template _may_ be a good starting point:
-    https://codesandbox.io/s/github/oliviertassinari/react-swipeable-views/tree/master/examples/create-react-app
+    https://codesandbox.io/s/github/dutompson/react-swipeable-views/tree/master/examples/create-react-app
 
 
     If YOU DO NOT take time to provide a codesandbox.io reproduction, should the COMMUNITY take time to help you?
